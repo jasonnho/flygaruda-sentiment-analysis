@@ -24,7 +24,7 @@ Proyek ini terdiri atas beberapa tahap — mulai dari *data scraping*, *cleaning
 │
 ├── .gitignore
 ├── README.md
-
+```
 ---
 
 ## 🧭 Project Overview
